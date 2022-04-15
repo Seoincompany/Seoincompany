@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing
 - 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me https://seoincompany.com
+- 📫 How to reach me goran.ceo@seoincompany.com
 
 <!---
 Seoincompany/Seoincompany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
